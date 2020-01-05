@@ -3,7 +3,7 @@ TASK: namenum
 LANG: JAVA
 */
 
-//PROBLEM ID        :   Milking Cows
+//PROBLEM ID        :   Name That Number
 
 
 import java.io.*;
