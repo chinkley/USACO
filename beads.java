@@ -2,14 +2,7 @@
 TASK: beads
 LANG: JAVA
 */
-//NAME              :   Charlie Hinkley
-//GROUP             :   APCS
-//LAST MDODIFIED    :   5 January 2019
 //PROBLEM ID        :   Broken Necklace
-//DESCRIPTION       :   Figures out the most number of beads
-//                      that can be put together from a 
-//                      broken necklace 
-//SOURCES/HELPERS   :   USACO website, Mr. Houtrouw
 
 import java.util.*;
 import java.io.*;
