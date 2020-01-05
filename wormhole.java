@@ -3,14 +3,8 @@ ID: 02charl1
 PROG: wormhole
 LANG: JAVA
  */
-//NAME          :   Charlie Hinkley 
-//GROUP         :   APCS
-//LAST MODIFIED :   1 November 2019
+
 //PROBLEM ID    :   USACO Wormhole 
-//DESCRIPTION   :   count the number of distinct pairings of the wormholes 
-//                  such that Bessie (the cow) could possibly get trapped 
-//                  in an infinite cycle if she starts from an unlucky position
-//SOURCES/HELP  :   USACO, Mr. H, AbdurRahman ElGammal
 
 import java.util.Scanner;
 import java.io.*;
