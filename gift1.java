@@ -3,15 +3,9 @@
  PROG: gift1
  LANG: JAVA
 */
-//NAME          :   Charlie Hinkley 
-//GROUP         :   APCS
-//LAST MODIFIED :   3 October 2019
-//PROBLEM ID    :   USACO Greedy Gift Givers 
-//DESCRIPTION   :   After people exchange money,
-//                  this program outputs how much 
-//                  more money each person receives 
-//                  than they give
-//SOURCES/HELP  :   USACO, Mr. H, Lauren DeHaan
+
+//PROBLEM ID    :   Greedy Gift Givers 
+
 
 import java.io.*;
 import java.util.*;
