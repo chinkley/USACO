@@ -4,7 +4,7 @@ PROG: wormhole
 LANG: JAVA
  */
 
-//PROBLEM ID    :   USACO Wormhole 
+//PROBLEM ID    :   Wormhole 
 
 import java.util.Scanner;
 import java.io.*;
