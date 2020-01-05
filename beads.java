@@ -2,6 +2,7 @@
 TASK: beads
 LANG: JAVA
 */
+
 //PROBLEM ID        :   Broken Necklace
 
 import java.util.*;
