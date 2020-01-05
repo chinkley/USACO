@@ -2,14 +2,9 @@
 TASK: namenum
 LANG: JAVA
 */
-//NAME              :   Charlie Hinkley
-//GROUP             :   APCS
-//LAST MDODIFIED    :   3 December 2019
+
 //PROBLEM ID        :   Milking Cows
-//DESCRIPTION       :   Given a brand number of a cow, prints all 
-//                      the valid names that can be generated from 
-//                      that brand number 
-//SOURCES/HELPERS   :   USACO website, Mr. Houtrouw
+
 
 import java.io.*;
 import java.util.*;
