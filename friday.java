@@ -2,14 +2,8 @@
 TASK: friday
 LANG: JAVA
 */
-//NAME              :   Charlie Hinkley
-//GROUP             :   APCS
-//LAST MDODIFIED    :   12 October 2019
+
 //PROBLEM ID        :   Friday the Thirteenth
-//DESCRIPTION       :   Figures out how many times
-//                      the 13th lands on each day
-//                      of the week over N years 
-//SOURCES/HELPERS   :   USACO website, Aidan Eichman, Kayla O'Donnell, Mr. Houtrouw
 
 import java.io.*;
 import java.util.*;
