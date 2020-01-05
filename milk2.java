@@ -4,15 +4,9 @@ package milkUSACO;
 TASK: milk2
 LANG: JAVA
 */
-//NAME              :   Charlie Hinkley
-//GROUP             :   APCS
-//LAST MDODIFIED    :   2 December 2019
+
 //PROBLEM ID        :   Milking Cows
-//DESCRIPTION       :   Figures out the longest time interval 
-//						at least one cow was milked as well as
-//						the longest time interval (after milking starts) 
-//						during which no cows were being milked 
-//SOURCES/HELPERS   :   USACO website, Mr. Houtrouw
+
 
 import java.io.*;
 import java.util.*;
