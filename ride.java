@@ -2,14 +2,8 @@
 TASK: ride
 LANG: JAVA
 */
-//               NAME: Charlie Hinkley
-//              GROUP: APCS
-//     LAST MDODIFIED: 10 September 2019
+
 //         PROBLEM ID: Your Ride Is Here
-//        DESCRIPTION: Program that takes the ASCII  values of 
-//                     characters of two strings,
-//                     calculates a value for each and verifies if they are equal.
-//    SOURCES/HELPERS: USACO website, Aidan Eichman, Lauren DeHaan, Mr. Houtrouw
 
 import java.io.*;
 public class ride
