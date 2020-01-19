@@ -1,14 +1,9 @@
-/*ID: kolomoc
+/*ID: 02charl1
 TASK: word
 LANG: JAVA
 */
-//NAME              :   Charlie Hinkley
-//GROUP             :   APCS
-//LAST MDODIFIED    :   19 January 2020
+
 //PROBLEM ID        :   Word Processor
-//DESCRIPTION       :   Outputs as many words on a line without
-//                      going over the character limit 
-//SOURCES/HELPERS   :   USACO website, Mr. Houtrouw
 
 import java.io.*;
 import java.util.*;
